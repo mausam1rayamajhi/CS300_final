@@ -1,4 +1,4 @@
-// Mausam,Sagar,Sakar 04/23/2024
+// Mausam Rayamajhi,Sagar Neupane,Sakar Aryal 04/23/2024
 
 #ifndef CREADFILE_H
 #define CREADFILE_H
